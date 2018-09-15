@@ -1,0 +1,16 @@
+{
+  "name": "website2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d website"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/vedparsekar/website2",
+  "dependencies": {
+    "gh-pages": "^1.2.0"
+  }
+}
